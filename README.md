@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! My name is Kanishk Kumar and I'm a passionate engineer, from India</h2>
--🌱 I’m currently learning **Machine learning, XAMPP, flutterflow**
+-🌱 I’m currently learning **Machine learning, XAMPP, React native**
 
 -📫 How to reach me **kanishkkumar222004@gmail.com**
 
