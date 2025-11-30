@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Kanishk Kumar and I'm a passionate engineer, from India</h2>
--🌱 I’m currently learning **React native, machine learning**
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" />
 
+-🌱 I’m currently learning **React native, machine learning**  
 -📫 How to reach me **kanishkkumar222004@gmail.com**
 
 ###
@@ -15,7 +16,7 @@
 </div>
 <br clear="both">
 
-<img align="right" height="136" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />
+<!--<img align="right" height="136" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"  />-->
 
 ###
 
