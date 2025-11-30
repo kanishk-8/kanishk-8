@@ -20,23 +20,22 @@
 
 ###
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
 <div align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishk-8&show_icons=true&theme=dracula&rank_icon=github&hide_border=false" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kanishk-8&theme=dracula&hide_border=false" height="150" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanishk-8&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
-
-<br clear="both">
-
 <!--<img src="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/snake.svg" alt="Snake animation" />-->
-
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kanishk-8/kanishk-8/output/pacman-contribution-graph.svg">
-</picture>
 
 <br clear="both">
 
