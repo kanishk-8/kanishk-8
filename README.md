@@ -30,7 +30,7 @@
 
 <br clear="both">
 <div align="left">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishk-8&show_icons=true&theme=dracula&rank_icon=github&hide_border=false" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishk-8&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=false" height="150" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=kanishk-8&theme=dracula&hide_border=false" height="150" />
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanishk-8&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
