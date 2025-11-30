@@ -20,9 +20,9 @@
 ###
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=kanishk-8&show_icons=true&theme=dracula&rank_icon=github&hide_border=false" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishk-8&theme=dracula&hide_border=false" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishk-8&layout=compact&theme=dracula&hide_border=false" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanishk-8&show_icons=true&theme=dracula&rank_icon=github&hide_border=false" height="150" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kanishk-8&theme=dracula&hide_border=false" height="150" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanishk-8&layout=compact&theme=dracula&hide_border=false" height="150" />
 </div>
 
 ###
@@ -96,10 +96,9 @@
 ### ☁️ Cloud & Deployment
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/render/render-original.svg" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" alt="vercel"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="gcp"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx"/>
 </p>
 
 ###
